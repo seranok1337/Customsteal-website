@@ -1,0 +1,16 @@
+{
+  "name": "electron-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^33.0.1",
+    "tailwindcss": "^3.4.13"
+  },
+  "dependencies": {
+    "git": "^0.1.5"
+  }
+}
